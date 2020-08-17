@@ -1,0 +1,16 @@
+Macallister Owens - 22221724 - CITS3002 Computer Networks Project
+
+Ubuntu 20.04 LTS
+
+Javac 11.0.7
+openjdk 11.0.7 2020-04-14
+OpenJDK Runtime Environment (build 11.0.7+10-post-Ubuntu-3ubuntu1)
+OpenJDK 64-Bit Server VM (build 11.0.7+10-post-Ubuntu-3ubuntu1, mixed mode, sharing)
+
+cc (Ubuntu 9.3.0-10ubuntu2) 9.3.0
+station.c compiled using: cc -std=c99 -Wall -Werror -pedantic -o station station.c
+
+NOTE: Both implementations access the timetable files from a seperate folder.
+This folder is named tt. If the timetable files are not stored in a folder which
+resides in the main files folder then it will not be able to access them. I have
+included a small tt folder with test timetables.
